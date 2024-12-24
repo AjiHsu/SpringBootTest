@@ -1,4 +1,4 @@
-FROM openjdk:17-jre-slim
+FROM openjdk:17-jdk
 
 # 應用程式的工作目錄
 WORKDIR /app
